@@ -1,0 +1,20 @@
+# Build Files
+*.d
+*.o
+*.elf
+*.map
+build/
+output/
+
+# Executables
+*.dol
+
+# Release Files
+*.zip
+
+# Sublime stuff
+.clang_complete
+
+# VS Code stuff
+.vscode/
+
