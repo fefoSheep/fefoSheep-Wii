@@ -43,7 +43,7 @@ int main(int argc, char **argv) {
 	if(rmode->viTVMode&VI_NON_INTERLACE) VIDEO_WaitVSync();
 
 	printf("\x1b[2;0H");
-	printf("v1.5.1\n");
+	printf("v1.6.0\n");
 	printf("downloa fefoshep form gothu!!!\n");
 	sleep(6);
 	printf("downloa compete!! now instalin!\n");
@@ -54,6 +54,8 @@ int main(int argc, char **argv) {
 	sleep(6);
 	printf("downloa ps3 frii gam port for wii too\n");
 	sleep(6);
+	printf("clongo\n");
+	sleep(2);
 	printf("u GO T FRI GAM!!!\n");
 	sleep(6);
 	printf("now lunching frii hebrew lawnchair!!\n");
